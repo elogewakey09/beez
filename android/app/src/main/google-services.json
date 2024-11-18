@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "649679070764",
+    "project_id": "beez-5517e",
+    "storage_bucket": "beez-5517e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649679070764:android:f42e7eaa2fec065f235389",
+        "android_client_info": {
+          "package_name": "com.beezilife.beez"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649679070764-67bv31bi9mrqgk9lbkkojdtviap3te12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd522KTcozKkw1gpsAf5PBAwKtnocWQA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649679070764-67bv31bi9mrqgk9lbkkojdtviap3te12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649679070764:android:ebe5a45c85f92567235389",
+        "android_client_info": {
+          "package_name": "com.beezilife.beeziness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649679070764-67bv31bi9mrqgk9lbkkojdtviap3te12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd522KTcozKkw1gpsAf5PBAwKtnocWQA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649679070764-67bv31bi9mrqgk9lbkkojdtviap3te12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
